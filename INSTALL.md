@@ -5,7 +5,7 @@
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```bash
-git clone https://github.com/dracula/foobar.git
+git clone git@github.com:wineee/deepin-terminal.git
 ```
 
 #### Install manually
